@@ -25,10 +25,10 @@ const Join = () => {
               <a
                 rel="noreferrer"
                 target="_blank"
-                href="https://discord.com/"
+                href="https://yash-discordclone.netlify.app"
                 className="text-whit text-xl bg-gradient-to-r  from-purple-800 to-pink-500 hover:bg-gradient-to-l focus:ring-4 focus:outline-none focus:ring-purple-200 dark:focus:ring-purple-800 font-bold rounded-full  px-10 py-5  text-center"
               >
-                Join via Discord
+                Join via Yash Discord
               </a>
             </div>
             <img alt="coin_img" className=" w-20 hidden md:flex" src={Eth} />

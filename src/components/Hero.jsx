@@ -48,10 +48,10 @@ function Hero() {
                 src={Btc}
                 alt="floating-el"
               />
-              <h1 className="text-6xl text-white">
+              <h1 className=" text-4xl sm:text-5xl md:text-6xl text-white ">
                 Track and Trade
                 <br />
-                <span className="bg-clip-text text-[4.3rem] text-transparent bg-gradient-to-r from-pink-500 via-blue-600 to-yellow-300">
+                <span className="bg-clip-text md:text-[4.3rem] text-transparent bg-gradient-to-r from-pink-500 via-blue-600 to-yellow-300">
                   Crypto currencies
                 </span>
               </h1>
