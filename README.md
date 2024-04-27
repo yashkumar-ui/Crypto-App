@@ -1,19 +1,18 @@
+
 <h2>About the project</h2>
 
-<p>A <b>e-commerce website</b>A e-commerce website with amazing animations and complete Add To Cart functionality. In this i use Java script libraries like Locomotive for smooth scrolling and Gsap for scrolling animations.</p>
+<p><b>Coin</b> is a website that allows users to search for information about various cryptocurrencies in real-time. The website is designed to provide users with accurate and up-to-date information about the price, market cap, trading volume, and other key metrics of cryptocurrencies. <br/>
 
-👉 Live Demo: <a href='https://yashkumar-ui.github.io/Two-Good/'>Live Demo</a>
+The website is connected to the Coingecko API, which is a popular source of data for cryptocurrency information. Coingecko provides data on thousands of cryptocurrencies, including their current price, historical price data, trading volume, market cap, and other important metrics. By using this API, the website can provide users with real-time information about the latest cryptocurrency prices and market trends.
+</p>
+
+👉 Live Demo: <a href='https://yash-cryptoapp.netlify.app' target='_blank'>Coin Demo</a>
 
 <h3>Build with:</h3>
 
-» Java Script<br>
-» Vanila CSS
+» React JS <br>
+» Tailwind CSS <br>
+» Coingecko API <br>
 
-<h2>Screenshots of the Project 📸</h2>
-<br>
-<h3 align='center'>Home Page 🏡</h3>
-
-<div align='center'>
-<img src=https://github.com/KuldeepKdy/Two-Good-Co/assets/134807119/4a4d56ed-09f6-4f6f-bcdd-e904b819e056/>
 
 </div>
